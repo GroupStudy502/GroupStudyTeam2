@@ -1,7 +1,7 @@
   # 📚 502classroom 그룹 스터디
 - [Project](https://github.com/orgs/GroupStudy502/projects)을 활용해서 그룹 스터디를 진행하는 repository입니다.
   
-  - 📅 Project -> 각 주 마다 공부한 주제에 대한 진행 사항 작성 및 일정 관리
+  - 📅 Project -> 각 주 마다 공부할 주제에 대한 프로젝트 생성 후 스터디 진행 사항 작성 및 일정 관리
   - 📃 Wiki -> 스터디한 개념 정리 및 설명 문서 공동 제작
   - 📌 Issue -> 스터디 중 막힌 부분 혹은 어려운 부분 작성 - > 코멘트를 통한 피드백 및 도움
 
