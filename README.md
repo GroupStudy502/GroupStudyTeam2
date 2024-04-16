@@ -2,7 +2,7 @@
 - <span> Project </span>을 활용해서 그룹 스터디를 진행하는 repository입니다.
   
   - 📅 Project -> 각 주 마다 공부할 주제에 대한 프로젝트 생성 후 스터디 진행 사항 작성 및 일정 관리
-  - 📃 Wiki -> 스터디한 개념 정리 및 설명 문서 공동 제작
+  - 📃 Wiki -> 스터디한 개념 정리 및 설명 문서 공동 제작 / 위키 제작 도움 관련 [link](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
   - 📌 Issue -> 스터디 중 막힌 부분 혹은 어려운 부분 작성 - > 코멘트를 통한 피드백 및 도움
 
 
