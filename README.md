@@ -17,4 +17,4 @@
   | No. | 💬 Main Topic |
   |:----|:-------------|
   ||||
-  | __1기-1주차__<br>(03/28)  | [객체 지향 프로그래밍](https://github.com/orgs/GroupStudy502/projects/1)<br>`객체`, `클래스`, `생성자`, `메서드` |
+  | __1기-1주차__<br>(03/28)  | [객체 지향 프로그래밍](https://github.com/orgs/GroupStudy502/projects/1)<br>`객체`, `클래스`, `생성자`, `메서드`,`상속`,`인터페이스`  |
