@@ -13,3 +13,15 @@ L
 src/TestQ5/TwoSomePlace.java,b\2\b26022c7f93172c652b27cdb3ec507473dd3d43b
 D
 src/TestQ5/Ex01.java,9\e\9e018ce426ac8cf8622bb5bbd46fe4da3f6319ec
+T
+$src/basicConstructorTest/Parent.java,4\e\4e5a3bcd6457232805deeece4626e02ada0a6202
+S
+#src/basicConstructorTest/Child.java,1\9\195b2a1422cc81f4580590394460f4c3f172aaec
+U
+%src/basicConstructorTest/Inherit.java,6\5\65c978b99a51e354a11992f41932de271aeaccfc
+R
+"src/singletonpatternexam/Card.java,6\8\681dbe1ad3c5ca6dee084187ad0fc6b916b11d00
+Y
+)src/singletonpatternexam/CardCompany.java,d\a\da81dba1e68064e4ce46c91a6921daa167ab4530
+S
+#src/singletonpatternexam/Print.java,4\b\4b9b7ae029cfad1695ada6a5c6b71e73ebf93389

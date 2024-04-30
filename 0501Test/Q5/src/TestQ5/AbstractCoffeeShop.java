@@ -29,12 +29,12 @@ public abstract class AbstractCoffeeShop implements CoffeeShop {
         }
 
         int price = meuns.getOrDefault(menu, 0);
-        if (price == 0) {
+        if (price == 0) {// 메뉴를 잘못 시키면 예외처리
             throw new RuntimeException("없는 메뉴 입니다.");
         }
 
         int money = person.getMoney();
-        if (money < price) {
+        if (money < price) {// 메뉴금액 보다 지불한 값이 작으면 예외처리
             throw new RuntimeException(menu + "를 구입하기엔 부족한 금액입니다.");
         }
 
@@ -46,10 +46,7 @@ public abstract class AbstractCoffeeShop implements CoffeeShop {
 
         return this;
     }
-    public void exit() {
-        System.out.printf("%s님이 %s에서 퇴장하였습니다.%n", person.getName(), name);
-        person = null;
-    }
+
 
     public int getTotalSalePrice() {
         return totalSalePrice;
