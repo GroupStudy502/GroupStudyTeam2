@@ -15,16 +15,10 @@ public class Ex01 {
 
             starBucks.enter(kim);
             starBucks.order();
-            starBucks.exit();
-
-            System.out.println();
+            System.out.println(kim);
 
             // 메서드 연결 = 메서드 체이닝을 통해 더 간단한 코드 표현 가능
-            twoSome.enter(lee).order().exit();
-
-            System.out.println();
-
-            System.out.println(kim);
+            twoSome.enter(lee).order();
             System.out.println(lee);
 
         } catch (RuntimeException e) {
