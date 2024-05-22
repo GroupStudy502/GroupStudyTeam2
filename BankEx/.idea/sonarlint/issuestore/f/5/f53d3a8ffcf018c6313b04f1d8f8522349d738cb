@@ -1,0 +1,19 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…îÛ×J$cf611872-63be-49f4-8437-5f1e4a63bd41
+ƒ
+java:S2259"@A "NullPointerException" could be thrown; "ac" is nullable here.(›½—À8êÓ±ùù1J$02180b3a-33ba-498b-86ff-2f53010fa9de
+ƒ
+java:S2259"@A "NullPointerException" could be thrown; "ac" is nullable here.(Ó‚š®8êÓ±ùù1J$bda0a861-9337-4d23-8f81-57f751ed4a41
+r	java:S106	"+Replace this use of System.out by a logger.(áŸü¾üÿÿÿÿ8–¶§ùù1J$d2eb7c25-57b0-4a9b-a083-d45bc2c1aeea
+m	java:S106"+Replace this use of System.out by a logger.(×²´8¶§ùù1J$cbf91b8c-1ed8-4397-b4ec-f906fa13c437
+m	java:S106"+Replace this use of System.out by a logger.(¢½¶÷8¶§ùù1J$810a8488-65aa-4cf7-ab94-4e7468453e44
+r	java:S106"+Replace this use of System.out by a logger.(›µµ‹ıÿÿÿÿ8¶§ùù1J$8bc4c475-a8cb-4787-bfea-21f8e4dbf5e2
+m	java:S106"+Replace this use of System.out by a logger.(ñ½èˆ8¦¶§ùù1J$8aa3a3ad-f1bf-4f36-8e4d-90a30362c999
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(·Á÷ğüÿÿÿÿ8ÜÔ±ùù1J$e6709a99-97f1-4e60-b55f-bedee51efa4e
+r	java:S106"+Replace this use of System.out by a logger.(·Á÷ğüÿÿÿÿ8§¶§ùù1J$adcc6fac-b144-4eff-a944-71bad752a895
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(›ãáÊ8áÔ±ùù1J$02ce5d15-d6a9-444e-82b5-bd06437352ef
+m	java:S106"+Replace this use of System.out by a logger.(›ãáÊ8¨¶§ùù1J$c6c16c1c-e630-4fe1-9346-62710271fead
+m	java:S106 "+Replace this use of System.out by a logger.(ëÚÚÜ8¨¶§ùù1J$e21b932e-d5a5-4c19-988c-ab210a4b86cb
+l	java:S106!"+Replace this use of System.out by a logger.(™¡8¨¶§ùù1J$8b575248-5447-4212-b50d-f77efca8d570

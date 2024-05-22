@@ -4,7 +4,6 @@ import java.util.Map;
 // 하위클래스 (StarBucks, TwoSomePlace) 공통적인 객체 자원 정의
 public abstract class AbstractCoffeeShop implements CoffeeShop {
     private String name; // 커피숍 이름
-    private int totalSalePrice; // 매출
     private Map<String, Integer> meuns; // 메뉴
     private Person person; // person객체 할당
 
@@ -24,32 +23,13 @@ public abstract class AbstractCoffeeShop implements CoffeeShop {
     @Override
     public CoffeeShop order() {
         String menu = person.getMenu();
-        if (menu == null) {// 메뉴를 선택하지 않으면 예외처리
-            throw new RuntimeException("메뉴를 선택하세요");
-        }
-
-        int price = meuns.getOrDefault(menu, 0);
-        if (price == 0) {// 메뉴를 잘못 시키면 예외처리
-            throw new RuntimeException("없는 메뉴 입니다.");
-        }
 
         int money = person.getMoney();
-        if (money < price) {// 메뉴금액 보다 지불한 값이 작으면 예외처리
-            throw new RuntimeException(menu + "를 구입하기엔 부족한 금액입니다.");
-        }
-
-        totalSalePrice += price;
-        money -= price;
         person.setMoney(money);
 
-        System.out.printf("%s님이 %s에서 %s를 %d원에 주문했습니다.%n", person.getName(), name, menu, price);
+        System.out.printf("%s님이 %s에서 %s를 %d원에 주문했습니다.%n", person.getName(), name, menu, person.getMoney());
 
         return this;
-    }
-
-
-    public int getTotalSalePrice() {
-        return totalSalePrice;
     }
 
     public String getName() {
