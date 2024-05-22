@@ -30,9 +30,5 @@ public class Person {
         this.menu = menu; // 주문할 메뉴 세팅
     }
 
-    public String toString() { //toString 재정의
-        return String.format("%s님의 남은 금액은 %d원 입니다.%n", name, money);
-    }
-
 
 }

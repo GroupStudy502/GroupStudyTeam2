@@ -25,3 +25,15 @@ Y
 )src/singletonpatternexam/CardCompany.java,d\a\da81dba1e68064e4ce46c91a6921daa167ab4530
 S
 #src/singletonpatternexam/Print.java,4\b\4b9b7ae029cfad1695ada6a5c6b71e73ebf93389
+L
+src/q5myself/Coffeeshop.java,c\9\c9a9c0018b90ca510616404b36e4c390fb1e6c8c
+O
+src/q5myself/AbsCoffeeshop.java,6\4\64828e4e629953735b466eec078c663b1e8189bb
+M
+src/q5myself/BaeksCoffee.java,c\5\c58e4257aaf4208c8ae2601e3440cbb511baee42
+L
+src/q5myself/MegaCoffee.java,2\a\2aab2f09953d467754d56b68525815b8197e5f1d
+J
+src/q5myself/Customer.java,d\9\d975ea1db74319d16b55543a41cda32fd7d707bf
+F
+src/q5myself/Ex01.java,6\f\6f394aa09f03fc5b7ee71e025231476eefd96629
