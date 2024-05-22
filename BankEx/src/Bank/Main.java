@@ -9,9 +9,9 @@ public class Main {public static void main(String[] args) {
     System.out.print("상품 선택 [1]자유적금 [2]챌린지박스 [3]예금 : ");
     int sel = sc.nextInt();
     switch(sel) {
-        case 1 : ac = new FreeSaving("자유적금 상품"); break;
-        case 2 : ac = new ChallengeSaving("도전적금 상품"); break;
-        case 3 : ac = new Deposit("예금 상품"); break;
+        case 1 : ac = new FreeSaving("Unknown"); break;
+        case 2 : ac = new ChallengeSaving("Unknown"); break;
+        case 3 : ac = new Deposit("Unknown"); break;
         default : System.out.println("Wrong product choose");
     }
     System.out.print("납입 금액 : ");
