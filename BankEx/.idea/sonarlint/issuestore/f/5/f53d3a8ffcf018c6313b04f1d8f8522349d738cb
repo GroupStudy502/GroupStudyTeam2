@@ -1,21 +1,21 @@
 
-j
-java:S1192"HDefine a constant instead of duplicating this literal "Unknown" 3 times.(ÑŸĞ¹üÿÿÿÿ8ÇÓŞùù1
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…îÛ×J$c23076d6-e1bc-40d6-ad33-f91f807e4a84
+
+java:S1192"HDefine a constant instead of duplicating this literal "Unknown" 3 times.(ÑŸĞ¹üÿÿÿÿ8å­çûù1J$37c94762-6f1a-40a9-8b65-7547fa1d3d52
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…îÛ×8è­çûù1J$5e62c49c-af78-43f4-8e07-97c886b9d2a9
 ƒ
-java:S2259"@A "NullPointerException" could be thrown; "ac" is nullable here.(Ó‚š®8êÓ±ùù1J$05fd3493-ae24-46cb-8957-c6a038b787a1
+java:S2259"@A "NullPointerException" could be thrown; "ac" is nullable here.(›½—À8ú­çûù1J$96981371-54ad-4350-a6c9-35ab8807ed30
 ƒ
-java:S2259"@A "NullPointerException" could be thrown; "ac" is nullable here.(›½—À8êÓ±ùù1J$c29c5ce9-e3e9-4fd6-b36b-4b24ee529f0d
-r	java:S106	"+Replace this use of System.out by a logger.(áŸü¾üÿÿÿÿ8–¶§ùù1J$7967e172-7e4d-48c9-9459-7c3cc0f26aab
-m	java:S106"+Replace this use of System.out by a logger.(×²´8¶§ùù1J$9f91955b-fc49-41d1-9fe6-49eb04272824
-m	java:S106"+Replace this use of System.out by a logger.(¢½¶÷8¶§ùù1J$9897e501-47a0-465c-841a-cebbced0dbb2
-r	java:S106"+Replace this use of System.out by a logger.(›µµ‹ıÿÿÿÿ8¶§ùù1J$631c0d09-42de-4cd8-956c-24d694af8d14
-m	java:S106"+Replace this use of System.out by a logger.(ñ½èˆ8¦¶§ùù1J$a81a4a7b-15c3-4801-b6de-8ec7509f4e99
+java:S2259"@A "NullPointerException" could be thrown; "ac" is nullable here.(£‡Øƒ8û­çûù1J$42534212-78ef-402c-853a-e1d9e2d27c80
+r	java:S106	"+Replace this use of System.out by a logger.(áŸü¾üÿÿÿÿ8€®çûù1J$fd102d1d-c9c2-46a8-ad1e-ef5c5cd8a0e8
+m	java:S106"+Replace this use of System.out by a logger.(×²´8®çûù1J$046b69ef-e998-4ac3-a945-b427caca10dc
+m	java:S106"+Replace this use of System.out by a logger.(¢½¶÷8®çûù1J$81b9df38-057e-40f3-8196-70ee0a216bb4
+r	java:S106"+Replace this use of System.out by a logger.(›µµ‹ıÿÿÿÿ8‚®çûù1J$f7d5fa7d-c345-40be-a7e1-c396be1c9b09
+m	java:S106 "+Replace this use of System.out by a logger.(ñ½èˆ8„®çûù1J$ee8464d7-5623-4fcc-9094-73d32e6c961a
 ™
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(·Á÷ğüÿÿÿÿ8ÜÔ±ùù1J$200c6f32-d3c2-4886-98d4-7460f580431f
-r	java:S106"+Replace this use of System.out by a logger.(·Á÷ğüÿÿÿÿ8§¶§ùù1J$97f1adac-fa9e-454b-ae7d-7b2e9bbdcf74
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(·Á÷ğüÿÿÿÿ8†®çûù1J$a7a1ebd7-55e4-4dc7-8f1a-0626055d9920
+r	java:S106!"+Replace this use of System.out by a logger.(·Á÷ğüÿÿÿÿ8†®çûù1J$d9f79444-3326-4f51-8cad-1496a9bbf56b
 ”
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(›ãáÊ8áÔ±ùù1J$b5bf3870-8bee-4f39-8e5a-6df0db50e046
-m	java:S106"+Replace this use of System.out by a logger.(›ãáÊ8¨¶§ùù1J$25388eed-13b5-4089-8a6d-d82c27f6a14a
-m	java:S106 "+Replace this use of System.out by a logger.(ëÚÚÜ8¨¶§ùù1J$acfe5dd9-ca67-46c9-b951-925c279edbca
-l	java:S106!"+Replace this use of System.out by a logger.(™¡8¨¶§ùù1J$c5c97f4d-bddf-4d41-9f90-2fa618041711
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(›ãáÊ8‡®çûù1J$6c22d45d-d445-4f99-8762-5b65fbd3b73f
+m	java:S106""+Replace this use of System.out by a logger.(›ãáÊ8‡®çûù1J$d384871d-cd4d-4aba-a397-771f4053fcc4
+m	java:S106#"+Replace this use of System.out by a logger.(ëÚÚÜ8‡®çûù1J$6804f40e-5e10-4785-9e13-a70aaa849fb5
+l	java:S106$"+Replace this use of System.out by a logger.(™¡8ˆ®çûù1J$730740ee-0a1c-461f-b196-c304e9cddf7e
