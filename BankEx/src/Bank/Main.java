@@ -19,7 +19,10 @@ public class Main {public static void main(String[] args) {
     System.out.print("가입 기간 : ");
     int period = sc.nextInt();
 
-    if(sel == 1 || sel == 2) ac.realRate(period);
+    if(sel == 1 || sel == 2) {
+        ac.realRate(period);
+    }
+
     ac.basicInterest(money,period);
     ac.realInterest(money,period);
     DecimalFormat formatter = new DecimalFormat("#,##0");

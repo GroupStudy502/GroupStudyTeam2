@@ -1,0 +1,48 @@
+
+†
+java:S1192€"cDefine a constant instead of duplicating this literal "Invalid Account. Please try again." 5 times.(Í°‘øÿÿÿÿ8É¿»úù1
+}
+java:S1192­"_Define a constant instead of duplicating this literal "Amount must be greater than 0." 3 times.(­¾ÇÖ8Ê¿»úù1
+†
+java:S1192—"hDefine a constant instead of duplicating this literal "Enter the number (1-%d) of the account
+" 4 times.(®å°”8Ê¿»úù1
+V
+java:S1220""Move this file to a named package.J$12020dd6-ca1f-4ba2-ba5d-251f32b1a6c1
+L	java:S106+"+Replace this use of System.out by a logger.(Ã³®¢úÿÿÿÿ8İ¿»úù1
+G	java:S106,"+Replace this use of System.out by a logger.(¼¹Ğ·8Ş¿»úù1
+L	java:S106."+Replace this use of System.out by a logger.(ßÊ„Îüÿÿÿÿ8Ş¿»úù1
+L	java:S1064"+Replace this use of System.out by a logger.(Ëşışÿÿÿÿ8à¿»úù1
+F	java:S106E"+Replace this use of System.out by a logger.(²ä¹=8â¿»úù1
+G	java:S106F"+Replace this use of System.out by a logger.(ØÑ„§8â¿»úù1
+L	java:S106G"+Replace this use of System.out by a logger.(ÍĞğÊûÿÿÿÿ8ã¿»úù1
+G	java:S106H"+Replace this use of System.out by a logger.(ÆŒÌğ8ã¿»úù1
+G	java:S106I"+Replace this use of System.out by a logger.(ªËÀ«8ä¿»úù1
+G	java:S106J"+Replace this use of System.out by a logger.(ôÕÔí8ä¿»úù1
+L	java:S106K"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä¿»úù1
+L	java:S106L"+Replace this use of System.out by a logger.(§˜ıäşÿÿÿÿ8å¿»úù1
+L	java:S106P"+Replace this use of System.out by a logger.(¤²ûúÿÿÿÿÿ8å¿»úù1
+L	java:S106h"+Replace this use of System.out by a logger.(¤²ûúÿÿÿÿÿ8ç¿»úù1
+G	java:S106}"+Replace this use of System.out by a logger.(Ø—˜8é¿»úù1
+M	java:S106€"+Replace this use of System.out by a logger.(Í°‘øÿÿÿÿ8ê¿»úù1
+H	java:S106—"+Replace this use of System.out by a logger.(®å°”8ì¿»úù1
+M	java:S106š"+Replace this use of System.out by a logger.(Í°‘øÿÿÿÿ8í¿»úù1
+H	java:S106¡"+Replace this use of System.out by a logger.(´Á¥ã8î¿»úù1
+M	java:S106¤"+Replace this use of System.out by a logger.(Í°‘øÿÿÿÿ8ï¿»úù1
+H	java:S106ª"+Replace this use of System.out by a logger.(áÆÛ8ï¿»úù1
+H	java:S106­"+Replace this use of System.out by a logger.(­¾ÇÖ8ğ¿»úù1
+H	java:S106¯"+Replace this use of System.out by a logger.(ºŠ¿8ğ¿»úù1
+P
+java:S6126¯"2Replace this String concatenation with Text block.(ºŠ¿8ò¿»úù1
+H	java:S106É"+Replace this use of System.out by a logger.(ø™ú8õ¿»úù1
+M	java:S106Ì"+Replace this use of System.out by a logger.(Í°‘øÿÿÿÿ8ö¿»úù1
+M	java:S106Ó"+Replace this use of System.out by a logger.(’Öï¥ùÿÿÿÿ8÷¿»úù1
+H	java:S106Ö"+Replace this use of System.out by a logger.(­¾ÇÖ8ø¿»úù1
+H	java:S106Ø"+Replace this use of System.out by a logger.(ºŠ¿8ø¿»úù1
+P
+java:S6126Ø"2Replace this String concatenation with Text block.(ºŠ¿8ù¿»úù1
+H	java:S106à"+Replace this use of System.out by a logger.(÷Èùê8ù¿»úù1
+M	java:S106õ"+Replace this use of System.out by a logger.(·ğâôüÿÿÿÿ8û¿»úù1
+M	java:S106ø"+Replace this use of System.out by a logger.(Í°‘øÿÿÿÿ8ü¿»úù1
+G	java:S106ş"+Replace this use of System.out by a logger.(°»¥8ü¿»úù1
+H	java:S106"+Replace this use of System.out by a logger.(­¾ÇÖ8ı¿»úù1
+H	java:S106‰"+Replace this use of System.out by a logger.(÷Èùê8ı¿»úù1

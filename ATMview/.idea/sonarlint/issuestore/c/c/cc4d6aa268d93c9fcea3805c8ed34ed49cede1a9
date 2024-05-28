@@ -1,0 +1,21 @@
+
+¡
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü£Ü“þÿÿÿÿ8ùµ°úù1J$429c9836-4e17-4167-a8c3-a75a11d552b1
+V
+java:S1220""Move this file to a named package.J$5f73d0c8-8b30-40b2-841e-e56302cecc0f
+r
+java:S1197
+"*Move the array designators [] to the type.(²˜Ö×üÿÿÿÿ8‹¶°úù1J$705b03bc-ade8-48e7-9ce5-5f5597fdc566
+m	java:S106&"+Replace this use of System.err by a logger.(Ú„šÚ8“¶°úù1J$059bee4f-f136-4963-a8c8-fd3b7526cf35
+™
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(ÉŽÎŠüÿÿÿÿ8—¶°úù1J$398bba3c-851e-47d2-af1a-d35a583b3a1c
+r	java:S1062"+Replace this use of System.out by a logger.(ÉŽÎŠüÿÿÿÿ8—¶°úù1J$9a873b90-8aab-4543-a86c-35033b278244
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(˜Þú´øÿÿÿÿ8œ¶°úù1J$4f061c4d-f15f-4b1a-b0ee-a64d8e29f43c
+m	java:S106W"+Replace this use of System.err by a logger.(Ú„šÚ8¡¶°úù1J$8b9c1b3a-5ecd-49c4-aab8-8c8765ad8ae2
+™
+java:S3457i"Q%n should be used in place of \n to produce the platform-specific line separator.(ìñ²Çøÿÿÿÿ8¦¶°úù1J$4c4a4c6e-a155-458e-93b4-59002ea1037e
+r	java:S106i"+Replace this use of System.out by a logger.(ìñ²Çøÿÿÿÿ8§¶°úù1J$9cceb0ac-ddd5-4d45-9307-31a6f05e837d
+m	java:S106k"+Replace this use of System.out by a logger.(©¾²¸8ª¶°úù1J$04e1abdb-52d4-453f-81fa-65368fb6fc33
+r	java:S106m"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8«¶°úù1J$125e6d23-b046-47f1-9005-281fe0a056a5
+t
+java:S1068",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ8³¶°úù1J$20cbb000-b8cb-4285-8d49-df6f4a5fede3
